@@ -14,6 +14,7 @@ Input Type and Format Requirements
         *	Data must be TAB-delimited with three columns lead by three headers.
         *	Headers must consist of indexes gene ID and two quantities of controlled sample and knockout sample, e.g. gene_id, ControlSample and KnockoutSample.
     One sample of a valid input is shown below:
+    
     ===========  =================  =================
       gene_id      ControlSample      KnockOutSample
     ===========  =================  =================
