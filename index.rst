@@ -1,5 +1,5 @@
 
-Software Requirements Specification for OM¬G（Oh My Gene）   <Version 0.1>
+Software Requirements Specification for OMG（Oh My Gene）   <Version 0.1>
 ==========================================================================
 
 .. toctree::
