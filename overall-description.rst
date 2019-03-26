@@ -36,4 +36,6 @@ Output Content and Style
 -----------------------
     Once finishes analyzing the original data of uploaded files, system will present a scatter plot reflecting the distribution state of all expressed genes of two states of sample, along with a table sorting all the data by the index of logFC. In the plot, the X-axis will represent ControlSample in log2 scale, and Y-axis will represent KnockoutSample in log2 scale.
     One rough preview of an outcome sample of scatter plot of differentially gene expression is shown below where the up-regulated genes are shown in red dots, and down-regulated genes are shown in blue:
+
+
     .. image:: /image/plot.png
