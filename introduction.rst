@@ -21,5 +21,5 @@ Glossary
  Treatment sample                    A cell sample treated by specific chemicals, or of which some genes are altered.
  Differentially expressed genes      The genes which have significantly different expression levels between two samples.
  Up-regulation                       A gene is said to be up-regulated if it has higher expression in treatment than in control.
- logFC                               log fold change of gene expression. Log2 (T/C), where T is the gene expression level from a treatment sample, and C is the gene expression level from a control sample0
+ logFC                               log fold change of gene expression. Log2 (T/C), where T is the gene expression level from a treatment sample, and C is the gene expression level from a control sample
 ================================  ==================================================================
